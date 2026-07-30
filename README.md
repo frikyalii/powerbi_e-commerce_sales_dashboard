@@ -26,6 +26,5 @@ This project presents an interactive Power BI dashboard for analyzing e-commerce
 
 <img width="1465" height="797" alt="image" src="https://github.com/user-attachments/assets/66fd69b6-752b-47cf-b8df-784cb6c13bce" />
 
-![Dashboard](dashboard.png)
 
 
