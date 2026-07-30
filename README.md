@@ -1,4 +1,4 @@
-# powerbi_e-commerce_sales_dashboard
+# power_bi_e-commerce_sales_dashboard
 Interactive E-commerce Sales Dashboard built using Power Bi
 
 ## Overview
